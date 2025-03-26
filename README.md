@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, je suis [Ton Nom] !  
+💻 Développeur Full-Stack | Laravel & React | Passionné par le Web  
 
-<!--
-**SaidaAourras/saidaAourras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Actuellement en train d'améliorer mes compétences en SQL & Laravel Breeze  
 
-Here are some ideas to get you started:
+📫 Me contacter : [email@example.com](mailto:email@example.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Derniers projets :  
+- 🔗 [E-commerce Laravel + React](https://github.com/username/ecommerce-laravel-react)  
+- 🔗 [Gestion de tâches avec Laravel](https://github.com/username/task-manager-laravel)  
+
+⚡ Technologies :
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+📊 **Statistiques GitHub :**  
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical)
