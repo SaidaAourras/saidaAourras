@@ -1,9 +1,9 @@
-# 👋 Hello, je suis [Ton Nom] !  
+# 👋 Hello, je suis Saida Aourras !  
 💻 Développeur Full-Stack | Laravel & React | Passionné par le Web  
 
 🌱 Actuellement en train d'améliorer mes compétences en SQL & Laravel Breeze  
 
-📫 Me contacter : [email@example.com](mailto:email@example.com)  
+📫 Me contacter : [email@example.com](mailto:sa123aouras@gmail.com)  
 
 🚀 Derniers projets :  
 - 🔗 [E-commerce Laravel + React](https://github.com/username/ecommerce-laravel-react)  
