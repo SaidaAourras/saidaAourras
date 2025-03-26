@@ -3,7 +3,7 @@
 
 🌱 Actuellement en train d'améliorer mes compétences en SQL & Laravel Breeze  
 
-📫 Me contacter : [email@example.com](mailto:sa123aouras@gmail.com)  
+📫 Me contacter : [sa123aouras@gmail.com](mailto:sa123aouras@gmail.com)  
 
 🚀 Derniers projets :  
 - 🔗 [E-commerce Laravel + React](https://github.com/username/ecommerce-laravel-react)  
