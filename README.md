@@ -39,10 +39,5 @@ Je travaille avec divers outils et frameworks pour créer des applications perfo
 - 🔗 [projet académique (school-management-app) React ](https://github.com/SaidaAourras/school-management-app.git)
 - ....
 
----
-
-## 📈 Statistiques GitHub
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SaidaAourras&show_icons=true&theme=radical)
 
 
