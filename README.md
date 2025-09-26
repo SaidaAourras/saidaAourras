@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est **Saida Aourras**  
+# 👋 Salut, c’est **Saida Aourras**  
 💻 Développeuse Full-Stack passionnée par le développement web moderne
 
 ---
