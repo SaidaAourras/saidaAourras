@@ -1,23 +1,34 @@
 # 👋 Salut, c’est **Saida Aourras**  
-💻 Développeuse Full-Stack passionnée par le développement web moderne
+💻 **Développeuse Full-Stack** passionnée par le web moderne & curieuse d’IA  
 
 ---
 
 ## 🚀 À propos de moi
 
-🎯 Je suis une développeuse Full-Stack passionnée par **tout ce qui touche au développement web moderne**.  
-Je travaille avec divers outils et frameworks pour créer des applications performantes, maintenables et intuitives — côté **front** comme **back**.
+🎯 Développeuse Full-Stack, je suis passionnée par **le développement web moderne** et la création d’applications performantes, maintenables et intuitives — aussi bien côté **front-end** que **back-end**.  
 
-✅ Aujourd’hui, je suis **prête à l’emploi** et motivée à rejoindre une équipe dynamique pour construire des solutions innovantes.
+💡 Forte de plusieurs expériences en développement, j’aime relever des défis techniques et concevoir des solutions innovantes qui allient **performance**, **design** et **expérience utilisateur**.  
 
-📚 En parallèle, je continue d’élargir mes compétences, notamment en :
-- Architecture logicielle avancée
-- Laravel Breeze & Inertia.js
-- SQL & optimisation de base de données
-- DevOps (CI/CD, Docker)
-- ...
+📘 Actuellement, j’élargis mes compétences à travers une **formation en développement d’intelligence artificielle**, afin d’intégrer des approches IA dans mes futurs projets web.  
 
-📫 **Contact :** [sa123aouras@gmail.com](mailto:sa123aouras@gmail.com)
+---
+
+## ⚙️ Compétences & Centres d’intérêt
+
+- Développement **Full-Stack** (Laravel, Vue.js, React, Node.js)  
+- **SQL** & optimisation de base de données  
+- **Architecture logicielle avancée**  
+- **DevOps** : CI/CD, Docker, intégration continue  
+- **Intelligence Artificielle** (formation en cours)  
+- Apprentissage continu & veille technologique  
+
+---
+
+## 📫 Me contacter
+
+📧 **Email :** [ton.email@exemple.com](mailto:ton.email@exemple.com)  
+🌐 **Portfolio :** [ton-site.dev](https://ton-site.dev)  
+💼 **LinkedIn :** [linkedin.com/in/saida-aourras](www.linkedin.com/in/saida-aourras-85723b266)
 
 ---
 
