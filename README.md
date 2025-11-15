@@ -27,7 +27,7 @@
 ## 📫 Me contacter
 
 📧 **Email :** [sa123aouras@gmail.com](mailto:sa123aouras@gmail.com)  
-🌐 **Portfolio :** [portfolio.dev]((https://saidaportfoli.netlify.app/))  
+🌐 **Portfolio :** [portfolio.dev](https://saidaportfoli.netlify.app/)  
 💼 **LinkedIn :** [linkedin.com/in/saida-aourras](www.linkedin.com/in/saida-aourras-85723b266)
 
 ---
