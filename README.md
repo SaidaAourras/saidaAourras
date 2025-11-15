@@ -26,8 +26,8 @@
 
 ## 📫 Me contacter
 
-📧 **Email :** [ton.email@exemple.com](mailto:sa123aouras@gmail.com)  
-🌐 **Portfolio :** [ton-site.dev](https://ton-site.dev)  
+📧 **Email :** [sa123aouras@gmail.com](mailto:sa123aouras@gmail.com)  
+🌐 **Portfolio :** [portfolio.dev]([https://ton-site.dev](https://saidaportfoli.netlify.app/))  
 💼 **LinkedIn :** [linkedin.com/in/saida-aourras](www.linkedin.com/in/saida-aourras-85723b266)
 
 ---
