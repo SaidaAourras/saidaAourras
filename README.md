@@ -297,6 +297,7 @@ Always excited to work on innovative ideas in web dev, AI, or anything that chal
 
 ```javascript
 while (alive) {
+    pray();
     eat();
     sleep();
     code();
