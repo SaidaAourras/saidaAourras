@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/saida-aourras-85723b266">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://saidaportfoli.netlify.app/">
+  <a href="https://my-portfolio-sigma-taupe-70.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:aourrassaida@gmail.com">
@@ -264,7 +264,7 @@ Always excited to work on innovative ideas in web dev, AI, or anything that chal
   <a href="https://www.linkedin.com/in/saida-aourras-85723b266">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="https://saidaportfoli.netlify.app/">
+  <a href="https://my-portfolio-sigma-taupe-70.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139" />
   </a>
   <a href="mailto:aourrassaida@gmail.com">
